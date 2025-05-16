@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependenciesz": {
+    "express": "^5.1.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
